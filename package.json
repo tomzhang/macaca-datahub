@@ -47,6 +47,7 @@
     "semver": "^5.5.0",
     "sequelize-cli": "^4.1.1",
     "socket.io": "^2.0.4",
+    "mysql2": "^1.6.5",
     "sqlite3": "^4.0.2",
     "uuid": "^3.3.2",
     "xutil": "^1.0.11",
